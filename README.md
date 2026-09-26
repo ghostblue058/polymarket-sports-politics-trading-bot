@@ -152,3 +152,6 @@ See `.env.example` for the full list.
 - Never commit `.env`.
 - Use a dedicated wallet for bot trading.
 - Start with small limits before increasing size.
+
+
+- Automated update for PR #213-1790414452-998
